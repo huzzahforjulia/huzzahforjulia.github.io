@@ -1,7 +1,7 @@
 {
   "single-page-markdown-website": {
     "baseUrl": "https://huzzahforjulia.github.io/",
-    "title": "Julia Garbe : julia.k.garbe@gmail.com",
+    "title": "Julia Garbe",
     "description": "engineer/animator/musician",
     "toc": true,
     "sections": true,
@@ -13,7 +13,10 @@
       {
         "text": "GitHub",
         "url": "https://github.com/huzzahforjulia/huzzahforjulia.github.io"
-      }
+      },
+      {
+        "text": "Email",
+        "url": "mailto:julia.k.garbe@gmail.com"
     ],
     "faviconImage": "favicon_package/favicon.ico"
   }
