@@ -1,0 +1,16 @@
+{
+  "single-page-markdown-website": {
+    "baseUrl": "https://huzzahforjulia.github.io/",
+    "title": "Julia Garbe",
+    "description": "engineer/animator/musician",
+    "toc": true,
+    "sections": true,
+    "links": [
+      {
+        "text": "GitHub",
+        "url": "https://github.com/huzzahforjulia/huzzahforjulia.github.io"
+      }
+    ],
+    "faviconImage": "favicon_package/favicon.ico"
+  }
+}
