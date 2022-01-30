@@ -7,13 +7,13 @@
     "sections": true,
     "links": [
       {
-        "text": "GitHub",
-        "url": "https://github.com/huzzahforjulia/huzzahforjulia.github.io"
-      },
-      {
         "text": "YouTube",
         "url": "https://www.youtube.com/c/JuliaGarbe1"
       }
+      {
+        "text": "GitHub",
+        "url": "https://github.com/huzzahforjulia/huzzahforjulia.github.io"
+      },
     ],
     "faviconImage": "favicon_package/favicon.ico"
   }
