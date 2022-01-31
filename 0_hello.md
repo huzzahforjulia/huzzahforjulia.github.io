@@ -1,3 +1,12 @@
+<style>
+    img {
+        border-radius: 25px;
+    }
+    
+    iframe {
+        border-radius:25px;
+    }
+</style>
 <br>
 <br>
 
