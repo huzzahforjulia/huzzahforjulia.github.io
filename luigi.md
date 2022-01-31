@@ -1,10 +1,9 @@
-he the other brother
+animation
 ===
-you better believe it
+BONE Animation
+-----
+I grew up reading the graphic novel series BONE. I always thought it would look cool animated so here it is!
 
-![maxresdefault](https://user-images.githubusercontent.com/49330502/151718493-052dd53e-671a-486e-ba76-823aac039590.jpg)
-
-also here is bone video
 
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
 
