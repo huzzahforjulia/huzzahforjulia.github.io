@@ -1,4 +1,5 @@
-<img src="me.jpg" alt="Photo of Julia Garbe" style="width:20vw;">
+<br>
+<img src="me.jpg" alt="Photo of Julia Garbe" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 hello
 =====
