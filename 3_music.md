@@ -1,6 +1,6 @@
 music
 ======
-Music is awesome! I try learning every instrument I can get my hands on and love trying to learn new techniques or styles. My current favourite instruments to play are bass and guitar. I also enjoy playing drums and sometimes clarinet. Maybe the odd banjo too. And theremin. 
+Music is awesome! I try learning every instrument I can get my hands on and love trying new techniques or styles. My current favourite instruments to play are bass and guitar. I also enjoy playing drums and sometimes clarinet. Maybe the odd banjo too. And theremin. 
 
 
 Searching For Greta: A New Musical
