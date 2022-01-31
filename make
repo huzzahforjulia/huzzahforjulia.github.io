@@ -1,1 +1,2 @@
-npx --yes -- single-page-markdown-website '*.md' --open && cp -r build/ docs/
+npx --yes -- single-page-markdown-website '*.md' --open
+echo "juliagarbe.com" > build/CNAME
