@@ -23,6 +23,8 @@ All of my lecture notebooks are overflowing with doodles...
 
 ![doodle balloon](https://user-images.githubusercontent.com/49330502/151737023-9c9ee603-29bd-4b46-93b6-e6223856562b.jpg)
 
+possibly too many doodles?
+
 ![doodle duck](https://user-images.githubusercontent.com/49330502/151737027-8979961b-2d4c-478e-aa79-9fc92218c694.jpg)
 
 <!--![tangerine](https://user-images.githubusercontent.com/49330502/151737038-94394ecd-e32b-4b3d-a066-7d1f4a0eb41d.jpg)-->
