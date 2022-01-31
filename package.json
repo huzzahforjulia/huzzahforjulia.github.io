@@ -4,7 +4,7 @@
     "title": "Julia Garbe",
     "description": "engineer/animator/musician",
     "toc": true,
-    "sections": true,
+    "sections": false,
     "links": [
       {
         "text": "YouTube",
