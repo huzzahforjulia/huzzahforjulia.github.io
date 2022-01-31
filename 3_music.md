@@ -17,6 +17,19 @@ I wrote a co-wrote a musical comedy about climate change and hope
 ------
 boopadoop
 
+<div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
+
+<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://youtu.be/HVfqbnz96kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+</div>
+
+
 Cloning myself
 -----
 jacob collier copy
+
+<div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
+
+<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://youtu.be/Tng0EcHMr-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+</div>
