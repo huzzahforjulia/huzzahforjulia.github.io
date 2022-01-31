@@ -1,7 +1,6 @@
 <br>
-<!--<img src="me.jpg" alt="Photo of Julia Garbe" style="display: block; margin-left: auto; margin-right: auto; width: 25%;">-->
 
-<img width="1260" alt="me_banner" src="https://user-images.githubusercontent.com/49330502/151852892-be4de140-d509-402e-ad23-ebf19d8577cb.png">
+<img width="1180" alt="Screen Shot 2022-01-31 at 1 41 34 PM" src="https://user-images.githubusercontent.com/49330502/151853249-5fc0be3a-3b4e-41b6-bab3-287d407c9920.png">
 
 hello
 =====
