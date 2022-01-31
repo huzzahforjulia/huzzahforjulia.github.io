@@ -1,7 +1,7 @@
 <br>
 <br>
 
-<img width="1180" alt="Screen Shot 2022-01-31 at 1 41 34 PM" src="https://user-images.githubusercontent.com/49330502/151853249-5fc0be3a-3b4e-41b6-bab3-287d407c9920.png">
+<img width="1180" alt="Screen Shot 2022-01-31 at 1 41 34 PM" src="https://user-images.githubusercontent.com/49330502/151853249-5fc0be3a-3b4e-41b6-bab3-287d407c9920.png" style="border-radius: 25px;">
 
 hello
 =====
