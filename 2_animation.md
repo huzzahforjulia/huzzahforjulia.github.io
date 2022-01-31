@@ -8,6 +8,7 @@ BONE Animation
 -----
 I grew up reading the graphic novel series BONE. I always thought it would look cool animated, so here it is with voice acting and everything!
 
+<br>
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
 <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://www.youtube.com/embed/tAeu9WFk9_s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
@@ -17,6 +18,7 @@ Lo-fi Animations
 ------
 Long story, but I made a series of little animated loops with ["lo-fi style"](https://youtu.be/5qap5aO4i9A) cover music in the background. 
 
+<br>
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
 <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://www.youtube.com/embed/ArmrFbAGf6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
