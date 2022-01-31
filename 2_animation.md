@@ -32,5 +32,3 @@ Long story, but I made a series of little animated loops with ["lo-fi style"](ht
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
 <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://www.youtube.com/embed/MBakbRJ-64A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 </div>
-
-![bird](https://user-images.githubusercontent.com/49330502/151736616-55d2868c-2d0c-40a3-b0b2-13e3a3778dda.gif)
