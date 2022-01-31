@@ -1,5 +1,8 @@
 animation
 ===
+
+i do traditional 2D animation on my ipad with apple pencil
+
 BONE Animation
 -----
 I grew up reading the graphic novel series BONE. I always thought it would look cool animated so here it is!
