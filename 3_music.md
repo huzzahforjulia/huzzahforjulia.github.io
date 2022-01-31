@@ -30,6 +30,6 @@ jacob collier copy
 
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
 
-<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://youtu.be/Tng0EcHMr-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://www.youtube.com/watch?v=Tng0EcHMr-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 </div>
