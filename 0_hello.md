@@ -1,7 +1,7 @@
 <br>
 <!--<img src="me.jpg" alt="Photo of Julia Garbe" style="display: block; margin-left: auto; margin-right: auto; width: 25%;">-->
 
-![Vincent_van_Gogh_-_Almond_blossom_-_Google_Art_Project](https://user-images.githubusercontent.com/49330502/151847752-77670591-22e5-4bc0-9dfa-dfd5e1e5163a.jpg)
+<img width="1260" alt="me_banner" src="https://user-images.githubusercontent.com/49330502/151852892-be4de140-d509-402e-ad23-ebf19d8577cb.png">
 
 hello
 =====
