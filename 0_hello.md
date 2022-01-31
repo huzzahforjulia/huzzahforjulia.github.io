@@ -1,5 +1,5 @@
 <br>
-<img src="me.jpg" alt="Photo of Julia Garbe" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+<img src="me.jpg" alt="Photo of Julia Garbe" style="display: block; margin-left: auto; margin-right: auto; width: 25%;">
 
 hello
 =====
