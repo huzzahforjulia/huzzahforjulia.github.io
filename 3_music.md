@@ -5,7 +5,7 @@ Music is awesome! I try learning every instrument I can get my hands on and love
 
 Searching For Greta: A New Musical
 ------
-I co-wrote a musical comedy about climate change and hope with my dad and my high school music teacher. It was really fun! You can watch the entire thing performed live here: 
+I co-wrote a musical comedy about climate change and hope with my dad and my old high school music teacher. It was really fun! You can watch the entire thing performed live here: 
 
 <br>
 <div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
