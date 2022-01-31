@@ -2,6 +2,8 @@ animation
 ===
 i do traditional 2D animation on my ipad with apple pencil
 
+![apple](https://user-images.githubusercontent.com/49330502/151736520-f1180456-5006-477c-be68-c05c42f9d732.gif)
+
 BONE Animation
 -----
 I grew up reading the graphic novel series BONE. I always thought it would look cool animated so here it is!
