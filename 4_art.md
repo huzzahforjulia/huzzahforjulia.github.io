@@ -8,7 +8,7 @@ sometimes i make stuff or paintings or whatever, here's a couple of em
 
 ![flowers](https://user-images.githubusercontent.com/49330502/151737013-fe3e3760-d944-4e5d-a01b-eb13c6d234d6.jpg)
 
-![hand](https://user-images.githubusercontent.com/49330502/151737016-b652ad34-5e9a-41e9-9f43-89a49d31819b.jpg)
+<!--[hand](https://user-images.githubusercontent.com/49330502/151737016-b652ad34-5e9a-41e9-9f43-89a49d31819b.jpg)-->
 
 ![turtles](https://user-images.githubusercontent.com/49330502/151737018-9f6d9e16-cb98-4e79-87c1-f6c2306f0a2e.jpg)
 
