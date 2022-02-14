@@ -7,11 +7,14 @@ I saw a [New York City Subway PCB Map](https://www.traintrackr.io/product/mta2) 
 It's just a bunch of addressable RGB LEDs in sequence controlled by an Arduino Nano. I designed it in [KiCad](https://www.kicad.org/) which is a free circuit board designing software. 
 
 <br>
-<img width="1093" alt="Screen Shot 2022-01-29 at 10 40 05 PM" src="https://user-images.githubusercontent.com/49330502/151730903-6c7df5f5-e12e-4293-9956-24456e2b9756.png">
-<img width="1093" alt="Screen Shot 2022-01-31 at 12 14 58 AM" src="https://user-images.githubusercontent.com/49330502/151742417-2370ca0e-2f67-4d09-8f9c-e9adc5b0093c.png">
-<img width="1093" alt="Screen Shot 2022-01-31 at 12 13 35 AM" src="https://user-images.githubusercontent.com/49330502/151742461-49fec5e6-06df-46ec-a88b-0bc8f30f6c85.png">
-<img width="1093" alt="Screen Shot 2022-01-31 at 12 17 20 AM" src="https://user-images.githubusercontent.com/49330502/151742604-09d255de-92c0-4ce1-aea7-5d503ef2604c.png">
 
+<img width="1093" alt="Screen Shot 2022-02-13 at 9 47 13 PM" src="https://user-images.githubusercontent.com/49330502/153799978-3469de93-ec2d-40bb-bf06-87a0f26cab63.png">
+
+<img width="1093" alt="Screen Shot 2022-02-13 at 9 47 27 PM" src="https://user-images.githubusercontent.com/49330502/153799989-0064e604-e19d-402e-ba12-617c1d12a4cf.png">
+
+<img width="1093" alt="Screen Shot 2022-02-13 at 9 48 56 PM" src="https://user-images.githubusercontent.com/49330502/153799994-e2bd9620-8be3-431d-9f5b-8464700654ef.png">
+
+<img width="1093" alt="Screen Shot 2022-02-13 at 11 09 42 PM" src="https://user-images.githubusercontent.com/49330502/153800001-8163c6bc-3f60-4dd6-8c4a-916c51c15761.png">
 
 2-Player Arcade Machine
 ------
