@@ -21,3 +21,12 @@ It's just a bunch of addressable RGB LEDs in sequence controlled by an Arduino N
 I grew up on old Nintendo consoles and arcade machines, so I've always wanted to build one myself. I built this one with a Raspberry Pi and some lasercut wood which I painted and doodled some classic characters on the outside. It can emulate any game - but usually gets used for Street Fighter II duels (which I win). 
 
 ![juliagarbe_arcade_machine](https://user-images.githubusercontent.com/49330502/151733670-e1b4e8c8-ceb8-4762-98e5-6241229c3f04.jpg)
+
+Mechatronics Engineering Capstone Symposium
+------
+On March 18th, we had our Mechatronics Engineering Capstone Project Symposium, where everyone in my class gathered to showcase their final projects. This day is pretty much the climax of the Mechatronics Engineering program at the University of Waterloo! So, I went around and filmed every group and interviewed a few of my classmates. 
+
+<br>
+<div style="position:relative;padding-bottom:56.25%;"> <!-- 16:9 Ratio Babyyyy -->
+<iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;" src="https://www.youtube.com/embed/YR7VDE2U2BA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
