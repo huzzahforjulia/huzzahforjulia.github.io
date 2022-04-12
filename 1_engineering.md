@@ -30,3 +30,9 @@ On March 18th, we had our Mechatronics Engineering Capstone Project Symposium, w
 I grew up on old Nintendo consoles and arcade machines, so I've always wanted to build one myself. I built this one with a Raspberry Pi and some lasercut wood which I painted and doodled some classic characters on the outside. It can emulate any game - but usually gets used for Street Fighter II duels (which I win). 
 
 ![juliagarbe_arcade_machine](https://user-images.githubusercontent.com/49330502/151733670-e1b4e8c8-ceb8-4762-98e5-6241229c3f04.jpg)
+
+Autonomous Sailboat Team
+-----
+I was a mechanical lead on the Autonomous Sailboat team, where I helped teach new members how to give shape to carbon fibre using a mold.
+
+![uwast2_0](https://user-images.githubusercontent.com/49330502/163027214-72a2c3e0-ad8b-497e-9da6-9a8b45cc0ff7.jpg)
