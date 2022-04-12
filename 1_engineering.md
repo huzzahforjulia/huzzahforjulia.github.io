@@ -33,6 +33,6 @@ I grew up on old Nintendo consoles and arcade machines, so I've always wanted to
 
 Autonomous Sailboat Team
 -----
-I was a mechanical lead on the Autonomous Sailboat team, where I helped teach new members how to give shape to carbon fibre using a mold. Carbon fibre was an ideal material for the body of the boat since it is so strong and lightweight. 
+I was a mechanical lead on the Autonomous Sailboat team, where I helped teach new members how to give shape to carbon fibre using a mould. Carbon fibre was an ideal material for the body of the boat since it is so strong and lightweight. 
 
 ![uwast2_0](https://user-images.githubusercontent.com/49330502/163027214-72a2c3e0-ad8b-497e-9da6-9a8b45cc0ff7.jpg)
